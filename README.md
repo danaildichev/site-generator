@@ -1,6 +1,6 @@
 # site-generator
 
-A script to make websites and populate them
+A python script to make websites and populate them
 
 This is the start to one of the tools I made when I worked at Rack City Media. We had a need for to roll out several landing pages a day. Some kinds of landing pages were less involved and could be generated automatically. I built a command line tool to do what we need based on the code that I am sharing here. 
 
