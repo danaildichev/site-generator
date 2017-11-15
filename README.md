@@ -16,5 +16,4 @@ It takes a list of domain names, and a list of paths. It will build an index.php
 
 ## How to use it
 
-You will have to input the filepath of the project in the CreatePath.py file. In the main.py, fill out at least 
-the domains and file_paths lists. Then hit run. You should see that it generated all files in the folder called targetFolder.
+Replace the dummy filepath in CreatePath.py. This path represents the public directory where all your websites are hosted. In the main.py, fill out at least the domains and file_paths lists. Then hit run. You should see that it generated all files in the folder called targetFolder.
